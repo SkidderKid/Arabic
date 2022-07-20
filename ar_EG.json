@@ -1,18 +1,16 @@
 {
-  "language": "العربية",
-  "startmenu.new_game": "مباراة جديدة",
-  "startmenu.multiplayer": "مباريات متعددة اللاعبين",
-  "startmenu.resume_game": "إكمال آخر مباراة",
-  "startmenu.settings": "الإعدادات",
-  "startmenu.high_score": "أعلى النقاط",
-  "startmenu.throne_room": "غرفة العرش",
-  "startmenu.about": "عن اللعبة، المطورين و المساهمين",
-
-  "news.title": "أخبار بوليتوببا",
-  "news.description": "!مرحبا\n !هنا نشارك أحدث الأخبار من عالم بوليتوببا، إبقوا متأهبين",
-  "gamemodepicker.title": "نظام اللعب",
-
-  "tribepicker.title": "أختر قبيلتك",
+  "language": "العربية"
+  "startmenu.new_game": "مباراة جديدة"
+  "startmenu.multiplayer": "مباريات متعددة اللاعبين"
+  "startmenu.resume_game": "إكمال آخر مباراة"
+  "startmenu.settings": "الإعدادات"
+  "startmenu.high_score": "أعلى النقاط"
+  "startmenu.throne_room": "غرفة العرش"
+  "startmenu.about": "عن اللعبة و المطورين"
+  "news.title": "أخبار بوليتوببا"
+  "news.description": "!مرحبا\n !هنا نشارك أحدث الأخبار من عالم بوليتوببا، إبقوا متأهبين"
+  "gamemodepicker.title": "نظام اللعب"
+  "tribepicker.title": "أختر قبيلتك"
   "tribepicker.categories.humantribes": "Regular Tribes",
   "tribepicker.categories.specialtribes": "Special Tribes",
   "tribepicker.categories.specialtribes.description": "A collection of tribes that are a bit out of this world...",
